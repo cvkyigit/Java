@@ -25,6 +25,6 @@ public class NotOrtalamaHesaplama {
         Turkce = oku.nextInt();
 
         double sonuc = (Matematik + Fizik + Kimya + Biyoloji + Geometri + Turkce) / 6.0;
-        System.out.println("Ortalamanız: " + sonuc);
+        System.out.println("Ortalamanız " + sonuc);
     }
 }
