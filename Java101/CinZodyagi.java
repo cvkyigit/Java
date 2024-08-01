@@ -74,7 +74,7 @@ public class CinZodyagi {
         }
         else
         {
-            System.out.println("Hatalı Bir Giriş Yaptınızé");
+            System.out.println("Hatalı Bir Giriş Yaptınız!");
         }
     }
 }
